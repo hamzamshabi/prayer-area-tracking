@@ -1,10 +1,11 @@
-videos/
-frames/
-prompts/
-outputs/
-checkpoints/
-external/
-tools/
+# working dirs at the repo root only (examples/prompts/ is tracked)
+/videos/
+/frames/
+/prompts/
+/outputs/
+/checkpoints/
+/external/
+/tools/
 *.pt
 *.pth
 *.npz
