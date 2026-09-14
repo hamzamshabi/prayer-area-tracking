@@ -1,0 +1,14 @@
+# torch: install the CUDA build first, e.g.
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+# SAM 2: pip install -e external/sam2   (see README)
+opencv-python
+numpy
+pillow
+tqdm
+# counting scripts only (CLIP-EBC)
+loralib
+timm
+ftfy
+regex
+einops
+scipy

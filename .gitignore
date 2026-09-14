@@ -1,0 +1,13 @@
+videos/
+frames/
+prompts/
+outputs/
+checkpoints/
+external/
+tools/
+*.pt
+*.pth
+*.npz
+*.mp4
+__pycache__/
+.venv/
